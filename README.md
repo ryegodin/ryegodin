@@ -5,7 +5,7 @@ the Faculty of Engineering for Engineering Outreach, where we work with youth in
 or even coding DEMO's to them. 
 
 At the University of Waterloo, with all of this online learning, we created a community discord server for our program and year, reaching over 100+ students within the Faculty of
-Science. To increase productivity and to practice my JavaScripting skills, I developed a bot to allow new functionalities on Discord to help ease student's stress and to reduce
+Science. To increase productivity and to practice my JavaScript skills, I developed a bot to allow new functionalities on Discord to help ease student's stress and to reduce
 some work to find things. The bot is currently created to have several functionalities, such as Calculus Initial Value Differential Equation calculators, Announcements, a 
 database for punishments to be stored to learn SQL and .db storage.
 
