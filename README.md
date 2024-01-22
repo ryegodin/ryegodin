@@ -1,6 +1,6 @@
 - Hello, I am Rye Godin
 
-I am currently both a student and employee at the University of Waterloo. I am studying Physics and Astronomy and I am entering my 2B term. I am also a CO-OP student, looking for Fall 2022 positions doing research or statistical analysis!
+I am currently both a student and employee at the University of Waterloo. I am studying Physics and Astronomy and I amin my 3B term. 
 
 At the University of Waterloo, with all of this online learning, we created a community discord server for our program and year, reaching over 100+ students within the Faculty of
 Science. To increase productivity and to practice my JavaScript skills, I developed a bot to allow new functionalities on Discord to help ease student's stress and to reduce
