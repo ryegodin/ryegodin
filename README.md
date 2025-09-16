@@ -1,4 +1,4 @@
-Hello, I am Ryan (Rye) Godin. This what I do 👍
+Hello, I am Ryan (Rye) Godin. This is what I do 👍
 
 Quantum machine learning and algorithm research;
 - Hyperspectral image and data classification
