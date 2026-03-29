@@ -92,5 +92,3 @@ Currently doing **MSc in Quantum Computing** at **Université de Sherbrooke**, i
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
-
-Footnote: ChatGPT went overkill on this README.md sorry... this is actually the toned down version.
