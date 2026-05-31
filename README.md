@@ -6,8 +6,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ryegodin&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/ryegodin)
-[![GitHub followers](https://img.shields.io/github/followers/ryegodin?style=flat-square&color=7c3aed&label=Followers)](https://github.com/ryegodin?tab=followers)
 
 </div>
 
